@@ -12,7 +12,7 @@ import uniandes.dpoo.gasolinera.logica.Gasolinera;
 public class ConsolaPrincipal extends ConsolaBasica
 {
     /**
-     * Opciones que se mostrarán en el menú principal
+     * Opciones que se mostrarán en el menú principal 
      */
     private final String[] opcionesMenuPrincipal = new String[]{ "Usar gasolinera actual", "Crear nueva gasolinera", "Cargar gasolinera de un archivo", "Guardar gasolinera a un archivo", "Salir" };
 
